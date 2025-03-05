@@ -1,0 +1,44 @@
+.character {
+  display: inline-block;
+  margin-right: 4px;
+}
+
+.jp {
+  font-size: 0.8rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+
+.char {
+  font-size: 1rem;
+}
+
+.button-group {
+  margin: 16px 0;
+}
+.button-group button {
+ width: 7rem;
+ margin-right: 8px;
+}
+
+#lyrics-input {
+  resize: none;
+  width: 100%;
+  text-align: center;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.cross {
+  font-size: 16px;
+  position: relative;
+  left: 9px;
+}
+
+.lyric-display {
+  margin-bottom: 10rem;
+}
